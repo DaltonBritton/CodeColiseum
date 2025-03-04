@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeColiseum.Client", "Code
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireCrackerAPI", "FireCrackerAPI\FireCrackerAPI.csproj", "{FF92809A-48AF-46AA-BCFA-DAB64173B43F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTests", "QuickTests\QuickTests.csproj", "{D8AB532A-8420-4A22-A0CF-1D19076C84A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FF92809A-48AF-46AA-BCFA-DAB64173B43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF92809A-48AF-46AA-BCFA-DAB64173B43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF92809A-48AF-46AA-BCFA-DAB64173B43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AB532A-8420-4A22-A0CF-1D19076C84A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AB532A-8420-4A22-A0CF-1D19076C84A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AB532A-8420-4A22-A0CF-1D19076C84A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AB532A-8420-4A22-A0CF-1D19076C84A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
